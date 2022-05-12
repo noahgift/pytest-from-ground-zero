@@ -5,6 +5,9 @@ install:
 test:
 	python -m pytest -vv --cov=mylib testing/
 
+profile-test-code:
+	python -m pytest -vv --durations=1 --durations-min=1.0
+
 format:
 	black *.py
 
