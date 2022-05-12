@@ -1,5 +1,6 @@
 [![Build](https://github.com/noahgift/pytest-from-ground-zero/actions/workflows/build.yml/badge.svg)](https://github.com/noahgift/pytest-from-ground-zero/actions/workflows/build.yml)
-[![Build2](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiZGhyL002azVxblZhdDFUOXM3ZHlYSmdYQ2xobnl2Unh6TTNOOG96bVEzYXN3ZXQ4TFhvSzN3bDcrWVR4b1FVSTJseFltWWhlbk9DTzAycE1VT0Mrbnk4PSIsIml2UGFyYW1ldGVyU3BlYyI6IkJ1VG9FMGJjUGx2K29wSi8iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
+[!![Drawing-8 sketchpad](https://user-images.githubusercontent.com/58792/168116462-09d64935-9862-4e3a-9d87-5c160f9f66eb.jpeg)
+[Build2](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiZGhyL002azVxblZhdDFUOXM3ZHlYSmdYQ2xobnl2Unh6TTNOOG96bVEzYXN3ZXQ4TFhvSzN3bDcrWVR4b1FVSTJseFltWWhlbk9DTzAycE1VT0Mrbnk4PSIsIml2UGFyYW1ldGVyU3BlYyI6IkJ1VG9FMGJjUGx2K29wSi8iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 # pytest-from-ground-zero
 This is a new pytest repo that covers the best practices
 
