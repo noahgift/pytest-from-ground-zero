@@ -7,4 +7,3 @@ def fruit():
 print(fruit())
 #var = 1
 #var = var 
-`
