@@ -12,7 +12,7 @@ parallel-test:
 	python -m pytest -n auto --dist loadgroup -vv --cov=mylib testing/ 
 
 format:
-	black *.py
+	black $$(git ls-files '*.py')
 
 lint:
 	pylint --disable=R,C $$(git ls-files '*.py')
