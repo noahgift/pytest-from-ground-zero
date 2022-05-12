@@ -1,9 +1,7 @@
-from random import choices
+#!/usr/bin/env python
 
-def fruit():
-    fruits = ["apple", "banana", "cherry"]
-    return choices(fruits)[0]
+from mylib.fruity import random_fruit
 
-print(fruit())
-#var = 1
-#var = var 
+
+if __name__ == "__main__":
+    print(random_fruit())
