@@ -23,6 +23,7 @@ Try `which python`
 * Run tests by marker expressions: https://docs.pytest.org/en/7.1.x/how-to/mark.html#mark
 * Profile tests: `pytest --durations=10 --durations-min=1.0`
 * Skipping `@pytest.mark.skip(reason="no way of currently testing this")`
+* [Checkout Fixtures here](https://paiml.com/docs/home/books/testing-in-python/chapter07-pytest-fixtures/)
 
 ### Distributed Testing: 
 
