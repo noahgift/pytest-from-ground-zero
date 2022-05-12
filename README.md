@@ -22,7 +22,7 @@ Try `which python`
 * To run a specific test within a module: `python -m pytest -vv testing/test_fruity.py::test_random_fruit`
 * Run tests by marker expressions: https://docs.pytest.org/en/7.1.x/how-to/mark.html#mark
 * Profile tests: `pytest --durations=10 --durations-min=1.0`
-
+* Skipping `@pytest.mark.skip(reason="no way of currently testing this")`
 
 
 
