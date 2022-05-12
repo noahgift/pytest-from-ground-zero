@@ -9,3 +9,22 @@ def test_search_wiki():
 def test_slow_test():
     sleep(3)
     assert "1981–82 Los Angeles Lakers season" in search_wiki()
+
+@pytest.mark.xdist_group(name="groupa")
+def test_slow_test_parallel_a1():
+    sleep(3)
+    assert "1981–82 Los Angeles Lakers season" in search_wiki()
+@pytest.mark.xdist_group(name="groupa")
+def test_slow_test_parallel_a2():
+    sleep(3)
+    assert "1981–82 Los Angeles Lakers season" in search_wiki()
+
+
+@pytest.mark.xdist_group(name="groupb")
+def test_slow_test_parallel_b1():
+    sleep(3)
+    assert "1981–82 Los Angeles Lakers season" in search_wiki()
+@pytest.mark.xdist_group(name="groupb")
+def test_slow_test_parallel_b2():
+    sleep(3)
+    assert "1981–82 Los Angeles Lakers season" in search_wiki()

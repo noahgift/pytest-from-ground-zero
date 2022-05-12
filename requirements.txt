@@ -5,3 +5,5 @@ pytest-cov==3.0.0
 wikipedia==1.4.0
 ipython==7.33.0
 fire==0.4.0
+pytest-xdist==2.5.0
+pytest-xdist[psutil]

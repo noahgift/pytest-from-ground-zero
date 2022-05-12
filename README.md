@@ -24,6 +24,9 @@ Try `which python`
 * Profile tests: `pytest --durations=10 --durations-min=1.0`
 * Skipping `@pytest.mark.skip(reason="no way of currently testing this")`
 
+### Distributed Testing: 
+
+* install: https://pypi.org/project/pytest-xdist/#installation
 
 
 
