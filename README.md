@@ -14,3 +14,15 @@ Try `which python`
 ## Testing for Multi-Cloud
 
 * AWS Cloud Shell
+
+## Using PyTest
+
+* Use library style:  `python -m pytest -vv --cov=mylib testing/`
+* Run tests by keyword expressions: `python -m pytest -vv -k "search"`
+
+
+
+
+
+
+
