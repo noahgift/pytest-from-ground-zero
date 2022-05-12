@@ -30,3 +30,9 @@ Try `which python`
 * install: https://pypi.org/project/pytest-xdist/#installation
 ![Drawing-8 sketchpad](https://user-images.githubusercontent.com/58792/168116462-09d64935-9862-4e3a-9d87-5c160f9f66eb.jpeg)
 
+### AWS Code Build
+
+* Easy because we leveraged `makefile`:  [buildspec.yml](https://github.com/noahgift/pytest-from-ground-zero/blob/main/buildspec.yml)
+
+
+
