@@ -25,7 +25,7 @@ Try `which python`
 * Skipping `@pytest.mark.skip(reason="no way of currently testing this")`
 * [Checkout Fixtures here](https://paiml.com/docs/home/books/testing-in-python/chapter07-pytest-fixtures/)
 
-### Distributed Testing: 
+### Distributed Testing 
 
 * install: https://pypi.org/project/pytest-xdist/#installation
 ![Drawing-8 sketchpad](https://user-images.githubusercontent.com/58792/168116462-09d64935-9862-4e3a-9d87-5c160f9f66eb.jpeg)
@@ -33,6 +33,12 @@ Try `which python`
 ### AWS Code Build
 
 * Easy because we leveraged `makefile`:  [buildspec.yml](https://github.com/noahgift/pytest-from-ground-zero/blob/main/buildspec.yml)
+
+### References
+
+* [Watch on O'Reilly: Cloud Native Pytest Tips and Tricks from Ground Zero](https://learning.oreilly.com/videos/cloud-native-pytest/05122022VIDEOPAIML/)
+* [Watch on YouTube: Cloud Native Pytest Tips and Tricks from Ground Zero ](https://www.youtube.com/watch?v=EOCtbjuICbA)
+
 
 
 
