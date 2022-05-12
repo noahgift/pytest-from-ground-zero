@@ -17,4 +17,4 @@ format:
 lint:
 	pylint --disable=R,C $$(git ls-files '*.py')
 
-all: install lint test format
+all: install lint parallel-test format
